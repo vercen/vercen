@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vercen&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/vercen/vercen/assets/github-contribution-grid-snake.svg" ></div>
 
 
 
